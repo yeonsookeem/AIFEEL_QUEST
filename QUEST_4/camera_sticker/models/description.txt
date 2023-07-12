@@ -1,0 +1,5 @@
+해당 퀘스트는 로컬환경(MAC OS)에서 사용되었다.
+jupyter notebook과 anaconda 사용함.
+
+shape_predictor_68_face_landmarks.dat 파일을 모델로 사용하였다.
+    해당 파일은 git buffer에서 다뤄지기엔 용량이 커서 git ignore 파일에 추가하였다.
