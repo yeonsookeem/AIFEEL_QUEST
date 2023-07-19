@@ -1,2 +1,4 @@
 # data model 무시
 *.dat
+# MAC 파일 예외처리
+.DS_Store
