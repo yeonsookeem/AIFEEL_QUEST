@@ -1,0 +1,3 @@
+1. 전처리에서 삽질 +1
+2. U-Net decoding 에서 concatenate 에러로 삽질 +1
+3. ...
